@@ -1,0 +1,150 @@
+Retos de Cadenas en C#
+
+Reto 1: Bitín explorador
+
+Reto 2: En el vasto universo digital existía un pequeño programa llamado Bitín|
+Bitín explorador recorría mundos binarios formados por ceros y unos|
+Su meta era encontrar las ciudades luminosas ocultas tras el firewall|
+
+En su viaje conoció a la Nube, que le mostró secretos del gran mundo conectado|
+La Nube le habló de un protagonista misterioso que buscaba una meta aún mayor|
+Bitín escuchó con atención y supo que debía seguir adelante|
+
+El camino estaba lleno de obstáculos, pero Bitín tenía un propósito claro|
+Cada cero y cada uno le recordaban que todo sistema puede transformarse|
+Con valentía, el programa avanzó entre códigos y protocolos|
+
+Al final, cuando parecía que todo estaba perdido,
+Bitín descubrió que incluso en los ceros y unos podía encontrar esperanza|
+Y así, el explorador siguió su viaje hacia un futuro lleno de posibilidades|
+
+Reto 3: El cuento tiene 879 caracteres y 151 palabras
+
+Reto 4: Bitín meta
+
+Reto 5: La longitud del cuento es 879
+
+Reto 6: la primera posición encontrada es: 100
+El carácter en esa posición es: m
+
+Reto 7: Ultima posicion de ceros: 760
+
+Reto 8: Resultado: El cuento si menciona Nube
+
+Reto 9: Resultado: Si incia asi
+
+Reto 10: Resultado: No termina así
+
+Reto 11: Extraer --Ciudades Luminosas--: ciudades luminosas
+
+Reto 12: Quitar los primeros caracteres: verso digital existía un pequeño programa llamado Bitín.
+Bitín explorador recorría mundos binarios formados por ceros y unos.
+Su meta era encontrar las ciudades luminosas ocultas tras el firewall.
+
+En su viaje conoció a la Nube, que le mostró secretos del gran mundo conectado.
+La Nube le habló de un protagonista misterioso que buscaba una meta aún mayor.
+Bitín escuchó con atención y supo que debía seguir adelante.
+
+El camino estaba lleno de obstáculos, pero Bitín tenía un propósito claro.
+Cada cero y cada uno le recordaban que todo sistema puede transformarse.
+Con valentía, el programa avanzó entre códigos y protocolos.
+
+Al final, cuando parecía que todo estaba perdido,
+Bitín descubrió que incluso en los ceros y unos podía encontrar esperanza.
+Y así, el explorador siguió su viaje hacia un futuro lleno de posibilidades.
+
+Reto 13: Cuentos despues del Remplazo:
+En el vasto universo digital existía un pequeño programa llamado ProgramarX.
+ProgramarX explorador recorría mundos binarios formados por ceros y unos.
+Su meta era encontrar las ciudades luminosas ocultas tras el firewall.
+
+En su viaje conoció a la Nube, que le mostró secretos del gran mundo conectado.
+La Nube le habló de un protagonista misterioso que buscaba una meta aún mayor.
+ProgramarX escuchó con atención y supo que debía seguir adelante.
+
+El camino estaba lleno de obstáculos, pero ProgramarX tenía un propósito claro.
+Cada cero y cada uno le recordaban que todo sistema puede transformarse.
+Con valentía, el programa avanzó entre códigos y protocolos.
+
+Al final, cuando parecía que todo estaba perdido,
+ProgramarX descubrió que incluso en los ceros y unos podía encontrar esperanza.
+Y así, el explorador siguió su viaje hacia un futuro lleno de posibilidades.
+
+Reto 14: Cambio de Firewall mas IMPORTANTE
+En el vasto universo digital existía un pequeño programa llamado Bitín.
+Bitín explorador recorría mundos binarios formados por ceros y unos.
+Su meta era encontrar las ciudades luminosas ocultas tras el firewall(IMPORTANTE).
+
+En su viaje conoció a la Nube, que le mostró secretos del gran mundo conectado.
+La Nube le habló de un protagonista misterioso que buscaba una meta aún mayor.
+Bitín escuchó con atención y supo que debía seguir adelante.
+
+El camino estaba lleno de obstáculos, pero Bitín tenía un propósito claro.
+Cada cero y cada uno le recordaban que todo sistema puede transformarse.
+Con valentía, el programa avanzó entre códigos y protocolos.
+
+Al final, cuando parecía que todo estaba perdido,
+Bitín descubrió que incluso en los ceros y unos podía encontrar esperanza.
+Y así, el explorador siguió su viaje hacia un futuro lleno de posibilidades.
+
+Reto 15: Insertar * al lado de Bitin.
+**********Bitín
+
+Reto 15: Rellenar la palabra nube.
+-----------Nube
+
+Reto 17: Eliminar espacios: En su viaje conoció a la Nube, que le mostró secretos del gran mundo conectado.
+
+Reto 18: Eliminar espacio solo al incio: Mundo binario
+
+Reto 19: Eliminar datos finales: Bitín explorador
+
+Reto 20. Mostrar las primeras 10 palabras individuales: En, el, vasto, universo, digital, existía, un, pequeño, programa, llamado
+
+Reto 21: Es Diferente
+
+Reto 22: La compracion es y va de primero: -1
+
+Reto 23: El resultado fue: 1
+
+Reto 24: La variable es: Cadena Vacia
+
+Reto 25: La variable es: Solo espacio
+
+Reto 26: Cuento en minisculas.
+en el vasto universo digital existía un pequeño programa llamado bitín.
+bitín explorador recorría mundos binarios formados por ceros y unos.
+su meta era encontrar las ciudades luminosas ocultas tras el firewall.
+
+en su viaje conoció a la nube, que le mostró secretos del gran mundo conectado.
+la nube le habló de un protagonista misterioso que buscaba una meta aún mayor.
+bitín escuchó con atención y supo que debía seguir adelante.
+
+el camino estaba lleno de obstáculos, pero bitín tenía un propósito claro.
+cada cero y cada uno le recordaban que todo sistema puede transformarse.
+con valentía, el programa avanzó entre códigos y protocolos.
+
+al final, cuando parecía que todo estaba perdido,
+bitín descubrió que incluso en los ceros y unos podía encontrar esperanza.
+y así, el explorador siguió su viaje hacia un futuro lleno de posibilidades.
+
+Reto 27: Cuento en mayusculas.
+ EN EL VASTO UNIVERSO DIGITAL EXISTÍA UN PEQUEÑO PROGRAMA LLAMADO BITÍN.
+BITÍN EXPLORADOR RECORRÍA MUNDOS BINARIOS FORMADOS POR CEROS Y UNOS.
+SU META ERA ENCONTRAR LAS CIUDADES LUMINOSAS OCULTAS TRAS EL FIREWALL.
+
+EN SU VIAJE CONOCIÓ A LA NUBE, QUE LE MOSTRÓ SECRETOS DEL GRAN MUNDO CONECTADO.
+LA NUBE LE HABLÓ DE UN PROTAGONISTA MISTERIOSO QUE BUSCABA UNA META AÚN MAYOR.
+BITÍN ESCUCHÓ CON ATENCIÓN Y SUPO QUE DEBÍA SEGUIR ADELANTE.
+
+EL CAMINO ESTABA LLENO DE OBSTÁCULOS, PERO BITÍN TENÍA UN PROPÓSITO CLARO.
+CADA CERO Y CADA UNO LE RECORDABAN QUE TODO SISTEMA PUEDE TRANSFORMARSE.
+CON VALENTÍA, EL PROGRAMA AVANZÓ ENTRE CÓDIGOS Y PROTOCOLOS.
+
+AL FINAL, CUANDO PARECÍA QUE TODO ESTABA PERDIDO,
+BITÍN DESCUBRIÓ QUE INCLUSO EN LOS CEROS Y UNOS PODÍA ENCONTRAR ESPERANZA.
+Y ASÍ, EL EXPLORADOR SIGUIÓ SU VIAJE HACIA UN FUTURO LLENO DE POSIBILIDADES.
+
+Reto 28: la palabra NUBE en Minisculas: nube
+
+Reto 29: Bitin a mayusculas: BITIN
